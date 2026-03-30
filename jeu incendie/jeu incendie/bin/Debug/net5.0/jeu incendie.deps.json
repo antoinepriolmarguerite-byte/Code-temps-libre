@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "jeu incendie/1.0.0": {
+        "runtime": {
+          "jeu incendie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jeu incendie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
