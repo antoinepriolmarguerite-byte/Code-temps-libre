@@ -18,7 +18,7 @@ namespace Jeu_mot_croisée
             motsParLettre = new Dictionary<char, List<string>>();
 
             // Lecture du fichier texte contenant les mots
-            using (StreamReader sr = new StreamReader(cheminFichier))
+            /*using (StreamReader sr = new StreamReader(cheminFichier))
             {
                 char lettre = 'A'; // on commence par la lettre A
                 string line;
@@ -39,7 +39,7 @@ namespace Jeu_mot_croisée
                     motsParLettre[lettre] = mots;
                     lettre++; // passe à la lettre suivante
                 }
-            }
+            }*/
         }
 
         // Tri fusion (MergeSort)

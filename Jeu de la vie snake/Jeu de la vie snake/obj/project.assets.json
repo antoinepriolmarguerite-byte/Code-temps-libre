@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\margu\\source\\repos\\Jeu de la vie snake\\Jeu de la vie snake\\Jeu de la vie snake.csproj",
+      "projectUniqueName": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu de la vie snake\\Jeu de la vie snake\\Jeu de la vie snake.csproj",
       "projectName": "Jeu de la vie snake",
-      "projectPath": "C:\\Users\\margu\\source\\repos\\Jeu de la vie snake\\Jeu de la vie snake\\Jeu de la vie snake.csproj",
+      "projectPath": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu de la vie snake\\Jeu de la vie snake\\Jeu de la vie snake.csproj",
       "packagesPath": "C:\\Users\\margu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\margu\\source\\repos\\Jeu de la vie snake\\Jeu de la vie snake\\obj\\",
+      "outputPath": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu de la vie snake\\Jeu de la vie snake\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

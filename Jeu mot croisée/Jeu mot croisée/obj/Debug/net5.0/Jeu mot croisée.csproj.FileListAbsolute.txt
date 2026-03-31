@@ -1,0 +1,16 @@
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\bin\Debug\net5.0\Jeu mot croisée.exe
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\bin\Debug\net5.0\Jeu mot croisée.deps.json
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\bin\Debug\net5.0\Jeu mot croisée.runtimeconfig.json
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\bin\Debug\net5.0\Jeu mot croisée.runtimeconfig.dev.json
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\bin\Debug\net5.0\Jeu mot croisée.dll
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\bin\Debug\net5.0\Jeu mot croisée.pdb
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\obj\Debug\net5.0\Jeu mot croisée.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\obj\Debug\net5.0\Jeu mot croisée.AssemblyInfoInputs.cache
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\obj\Debug\net5.0\Jeu mot croisée.AssemblyInfo.cs
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\obj\Debug\net5.0\Jeu mot croisée.csproj.CoreCompileInputs.cache
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\obj\Debug\net5.0\Jeu mot croisée.sourcelink.json
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\obj\Debug\net5.0\Jeu mot croisée.dll
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\obj\Debug\net5.0\refint\Jeu mot croisée.dll
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\obj\Debug\net5.0\Jeu mot croisée.pdb
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\obj\Debug\net5.0\Jeu mot croisée.genruntimeconfig.cache
+C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\obj\Debug\net5.0\ref\Jeu mot croisée.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jeu mot croisée")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72107eaf1da6c2a8ccd0fd0579cb47fe2102dd6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71a6cad98de8c60af0cf0bd4a101dbb1bec30f6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jeu mot croisée")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jeu mot croisée")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

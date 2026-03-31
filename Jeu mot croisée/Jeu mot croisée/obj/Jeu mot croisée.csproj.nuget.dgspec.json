@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot croisée\\Jeu mot croisée\\Jeu mot croisée.csproj": {}
+    "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot croisée\\Jeu mot croisée\\Jeu mot croisée.csproj": {}
   },
   "projects": {
-    "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot croisée\\Jeu mot croisée\\Jeu mot croisée.csproj": {
+    "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot croisée\\Jeu mot croisée\\Jeu mot croisée.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot croisée\\Jeu mot croisée\\Jeu mot croisée.csproj",
+        "projectUniqueName": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot croisée\\Jeu mot croisée\\Jeu mot croisée.csproj",
         "projectName": "Jeu mot croisée",
-        "projectPath": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot croisée\\Jeu mot croisée\\Jeu mot croisée.csproj",
+        "projectPath": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot croisée\\Jeu mot croisée\\Jeu mot croisée.csproj",
         "packagesPath": "C:\\Users\\margu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot croisée\\Jeu mot croisée\\obj\\",
+        "outputPath": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot croisée\\Jeu mot croisée\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,3 +14,19 @@ C:\Users\margu\Desktop\MiniProjetR-servation\ProjetReservation\jeu incendie\jeu 
 C:\Users\margu\Desktop\MiniProjetR-servation\ProjetReservation\jeu incendie\jeu incendie\obj\Debug\net5.0\jeu incendie.pdb
 C:\Users\margu\Desktop\MiniProjetR-servation\ProjetReservation\jeu incendie\jeu incendie\obj\Debug\net5.0\jeu incendie.genruntimeconfig.cache
 C:\Users\margu\Desktop\MiniProjetR-servation\ProjetReservation\jeu incendie\jeu incendie\obj\Debug\net5.0\ref\jeu incendie.dll
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\bin\Debug\net5.0\jeu incendie.exe
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\bin\Debug\net5.0\jeu incendie.deps.json
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\bin\Debug\net5.0\jeu incendie.runtimeconfig.json
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\bin\Debug\net5.0\jeu incendie.runtimeconfig.dev.json
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\bin\Debug\net5.0\jeu incendie.dll
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\bin\Debug\net5.0\jeu incendie.pdb
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\obj\Debug\net5.0\jeu incendie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\obj\Debug\net5.0\jeu incendie.AssemblyInfoInputs.cache
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\obj\Debug\net5.0\jeu incendie.AssemblyInfo.cs
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\obj\Debug\net5.0\jeu incendie.csproj.CoreCompileInputs.cache
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\obj\Debug\net5.0\jeu incendie.sourcelink.json
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\obj\Debug\net5.0\jeu incendie.dll
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\obj\Debug\net5.0\refint\jeu incendie.dll
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\obj\Debug\net5.0\jeu incendie.pdb
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\obj\Debug\net5.0\jeu incendie.genruntimeconfig.cache
+C:\Users\margu\source\repos\Code temps libre\jeu incendie\jeu incendie\obj\Debug\net5.0\ref\jeu incendie.dll

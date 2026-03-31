@@ -1,26 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot crois\u00E9e\\",
+  "WorkspaceRootPath": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot crois\u00E9e\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BA9987B-8025-49F2-9005-FB9C5C158345}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|c:\\users\\margu\\desktop\\miniprojetr-servation\\projetreservation\\jeu mot crois\u00E9e\\jeu mot crois\u00E9e\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BA9987B-8025-49F2-9005-FB9C5C158345}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|solutionrelative:jeu mot crois\u00E9e\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4799CE-5E40-68A5-28FE-79520C177BC6}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|c:\\users\\margu\\source\\repos\\code temps libre\\jeu mot crois\u00E9e\\jeu mot crois\u00E9e\\dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4799CE-5E40-68A5-28FE-79520C177BC6}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|solutionrelative:jeu mot crois\u00E9e\\dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BA9987B-8025-49F2-9005-FB9C5C158345}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|c:\\users\\margu\\desktop\\miniprojetr-servation\\projetreservation\\jeu mot crois\u00E9e\\jeu mot crois\u00E9e\\dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BA9987B-8025-49F2-9005-FB9C5C158345}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|solutionrelative:jeu mot crois\u00E9e\\dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4799CE-5E40-68A5-28FE-79520C177BC6}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|c:\\users\\margu\\source\\repos\\code temps libre\\jeu mot crois\u00E9e\\jeu mot crois\u00E9e\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4799CE-5E40-68A5-28FE-79520C177BC6}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|solutionrelative:jeu mot crois\u00E9e\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BA9987B-8025-49F2-9005-FB9C5C158345}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|c:\\users\\margu\\desktop\\miniprojetr-servation\\projetreservation\\jeu mot crois\u00E9e\\jeu mot crois\u00E9e\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BA9987B-8025-49F2-9005-FB9C5C158345}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|solutionrelative:jeu mot crois\u00E9e\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4799CE-5E40-68A5-28FE-79520C177BC6}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|c:\\users\\margu\\source\\repos\\code temps libre\\jeu mot crois\u00E9e\\jeu mot crois\u00E9e\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4799CE-5E40-68A5-28FE-79520C177BC6}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|solutionrelative:jeu mot crois\u00E9e\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BA9987B-8025-49F2-9005-FB9C5C158345}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|c:\\users\\margu\\desktop\\miniprojetr-servation\\projetreservation\\jeu mot crois\u00E9e\\jeu mot crois\u00E9e\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BA9987B-8025-49F2-9005-FB9C5C158345}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|solutionrelative:jeu mot crois\u00E9e\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4799CE-5E40-68A5-28FE-79520C177BC6}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|c:\\users\\margu\\source\\repos\\code temps libre\\jeu mot crois\u00E9e\\jeu mot crois\u00E9e\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4799CE-5E40-68A5-28FE-79520C177BC6}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|solutionrelative:jeu mot crois\u00E9e\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BA9987B-8025-49F2-9005-FB9C5C158345}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|c:\\users\\margu\\desktop\\miniprojetr-servation\\projetreservation\\jeu mot crois\u00E9e\\jeu mot crois\u00E9e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BA9987B-8025-49F2-9005-FB9C5C158345}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|solutionrelative:jeu mot crois\u00E9e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\margu\\AppData\\Local\\SourceServer\\ec56ad027a7197f2fc1e1de711ed15f1e2d84be8a4637f1312317b4c0b8ad374\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4799CE-5E40-68A5-28FE-79520C177BC6}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|c:\\users\\margu\\source\\repos\\code temps libre\\jeu mot crois\u00E9e\\jeu mot crois\u00E9e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4799CE-5E40-68A5-28FE-79520C177BC6}|Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e.csproj|solutionrelative:jeu mot crois\u00E9e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,37 +41,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Joueur.cs",
-              "DocumentMoniker": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Joueur.cs",
-              "RelativeDocumentMoniker": "Jeu mot crois\u00E9e\\Joueur.cs",
-              "ToolTip": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Joueur.cs",
-              "RelativeToolTip": "Jeu mot crois\u00E9e\\Joueur.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Dictionnaire.cs",
+              "DocumentMoniker": "C:\\Users\\margu\\AppData\\Local\\SourceServer\\ec56ad027a7197f2fc1e1de711ed15f1e2d84be8a4637f1312317b4c0b8ad374\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Dictionnaire.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\ec56ad027a7197f2fc1e1de711ed15f1e2d84be8a4637f1312317b4c0b8ad374\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Dictionnaire.cs",
+              "ToolTip": "C:\\Users\\margu\\AppData\\Local\\SourceServer\\ec56ad027a7197f2fc1e1de711ed15f1e2d84be8a4637f1312317b4c0b8ad374\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Dictionnaire.cs [Lecture seule]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\ec56ad027a7197f2fc1e1de711ed15f1e2d84be8a4637f1312317b4c0b8ad374\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Dictionnaire.cs [Lecture seule]",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBQAAAATAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T20:14:06.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T20:32:25.813Z",
+              "EditorCaption": " [Lecture seule]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Dictionnaire.cs",
-              "DocumentMoniker": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Dictionnaire.cs",
+              "DocumentMoniker": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Dictionnaire.cs",
               "RelativeDocumentMoniker": "Jeu mot crois\u00E9e\\Dictionnaire.cs",
-              "ToolTip": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Dictionnaire.cs",
+              "ToolTip": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Dictionnaire.cs",
               "RelativeToolTip": "Jeu mot crois\u00E9e\\Dictionnaire.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T20:13:48.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Joueur.cs",
+              "RelativeDocumentMoniker": "Jeu mot crois\u00E9e\\Joueur.cs",
+              "ToolTip": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Joueur.cs",
+              "RelativeToolTip": "Jeu mot crois\u00E9e\\Joueur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:14:06.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Plateau.cs",
-              "DocumentMoniker": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Plateau.cs",
+              "DocumentMoniker": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Plateau.cs",
               "RelativeDocumentMoniker": "Jeu mot crois\u00E9e\\Plateau.cs",
-              "ToolTip": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Plateau.cs",
+              "ToolTip": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Plateau.cs",
               "RelativeToolTip": "Jeu mot crois\u00E9e\\Plateau.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,27 +95,26 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Jeu.cs",
-              "DocumentMoniker": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Jeu.cs",
+              "DocumentMoniker": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Jeu.cs",
               "RelativeDocumentMoniker": "Jeu mot crois\u00E9e\\Jeu.cs",
-              "ToolTip": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Jeu.cs",
+              "ToolTip": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Jeu.cs",
               "RelativeToolTip": "Jeu mot crois\u00E9e\\Jeu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T20:12:34.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Program.cs",
               "RelativeDocumentMoniker": "Jeu mot crois\u00E9e\\Program.cs",
-              "ToolTip": "C:\\Users\\margu\\Desktop\\MiniProjetR-servation\\ProjetReservation\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Program.cs",
+              "ToolTip": "C:\\Users\\margu\\source\\repos\\Code temps libre\\Jeu mot crois\u00E9e\\Jeu mot crois\u00E9e\\Program.cs",
               "RelativeToolTip": "Jeu mot crois\u00E9e\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T20:11:52.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T20:11:52.492Z"
             }
           ]
         }
