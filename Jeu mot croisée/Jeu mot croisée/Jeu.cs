@@ -37,7 +37,7 @@ namespace Jeu_mot_croisée
             {
                 //choix pour matrice prédéfini
                 // Dossier où se trouvent tes fichiers CSV
-                string dossier = @"C:\Users\margu\source\repos\Projet Mot Glissés\Projet Mot Glissés\bin\Debug\net5.0";
+                string dossier = @"C:\Users\margu\source\repos\Code temps libre\Jeu mot croisée\Jeu mot croisée\bin\Debug\net5.0";
 
                 // Récupération de tous les fichiers .csv
                 string[] fichiers = Directory.GetFiles(dossier, "*.csv");

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jeu de la vie snake")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71a6cad98de8c60af0cf0bd4a101dbb1bec30f6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3359a92651d31c0b0208124c73f3368606bc3cab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jeu de la vie snake")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jeu de la vie snake")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
